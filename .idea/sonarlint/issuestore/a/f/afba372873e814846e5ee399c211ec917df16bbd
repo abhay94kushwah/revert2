@@ -1,0 +1,12 @@
+
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(άιδ
+=
+java:S2189""Add an end condition to this loop.(οÿÿÿÿÿ
+=
+java:S2189""Add an end condition to this loop.(οÿÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(§«Ο‹
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¨¦µΝ
+Q	java:S125"<This block of commented-out lines of code should be removed.(Χ
+Q	java:S125"<This block of commented-out lines of code should be removed.(§«Ο‹
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ΐ¬‰Ί
+Q	java:S125"<This block of commented-out lines of code should be removed.(Χ

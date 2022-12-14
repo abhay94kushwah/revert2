@@ -1,0 +1,17 @@
+
+e
+java:S3973"JUse indentation to denote the code conditionally executed by this "while".(°–àˆýÿÿÿÿ
+e
+java:S3973"JUse indentation to denote the code conditionally executed by this "while".(°–àˆýÿÿÿÿ
+’
+java:S2681
+"|This line will not be executed in a loop; only the first line of this 2-line block will be. The rest will execute only once.(Ì‚ˆÌ
+’
+java:S2681"|This line will not be executed in a loop; only the first line of this 2-line block will be. The rest will execute only once.(Ì‚ˆÌ
+K
+java:S1854
+"5Remove this useless assignment to local variable "i".(Ì‚ˆÌ
+S	java:S106	"9Replace this use of System.out or System.err by a logger.(’ðèËþÿÿÿÿ
+K
+java:S1854"5Remove this useless assignment to local variable "i".(Ì‚ˆÌ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ùÁçÆ
